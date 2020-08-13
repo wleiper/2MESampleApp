@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <color name="primaryColor">#3A4374</color>
+    <color name="primaryLightColor">#5f65a2</color>
+    <color name="primaryDarkColor">#032581</color>
+    <color name="secondaryColor">#41A763</color>
+    <color name="secondaryLightColor">#6eda8f</color>
+    <color name="secondaryBgColor">#0DA05A</color>
+    <color name="secondaryDarkColor">#007836</color>
+    <color name="primaryTextColor">#ffffff</color>
+    <color name="secondaryTextColor">#000000</color>
+    <color name="white">#ffffff</color>
+    <color name="primaryligtherColor">#008BD7</color>
+    <color name="black">#000000</color>
+    <color name="mtrl_textinput_default_box_stroke_color" tools:override="true">@color/white</color>
+    <color name="peach">#AF3C5E</color>
+    <color name="darkGray">#4c5659</color>
+    <color name="meroon">#59263f</color>
+    <color name="secondaryDarkExtraColor">#183531</color>
+    <color name="lightWhiteGray">#aeb2b3</color>
+    <color name="colorGrayXLight">#E8EBEA</color>
+    <color name="colorError">#e2343a</color>
+    <color name="gray">#979596</color>
+    <color name="yellow">#fff000</color>
+    <color name="light_white">#EEF0F1</color>
+    <color name="text_white">#F5F5F5</color>
+    <color name="btn_meroon">#841518</color>
+    <color name="colorYellowPale">#fff68c</color>
+
+</resources>
